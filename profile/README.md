@@ -18,6 +18,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 # Development Repositories
 | Path | GitHub |
 |----------|----------|
-| Machine Learning  | [GitHub]()  |
-| Cloud Computing  | [GitHub]  |
+| Machine Learning  | [GitHub](https://github.com/Bangkit-Capstone-001/android-bangkit-capstone)  |
+| Cloud Computing  | [GitHub](https://github.com/Bangkit-Capstone-001/cloud-computing-bangkit-capstone)  |
 | Android  | [GitHub]  |
