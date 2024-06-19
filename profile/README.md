@@ -1,3 +1,4 @@
+Team ID: `C241-PS014`
 This is intended to document our capstone project at Bangkit Academy 2024: `FitFirst`
 
 # About
@@ -12,7 +13,7 @@ Based on data from Statista, the trend of public interest in healthy lifestyles 
 | C002D4KX0361  | Carissa Zahrani Putri  | ITB  | DevOps & Backend Engineer  |
 | C010D4KY0953  | Fahmi Sabila Firdaus  | UI  | DevOps & Backend Engineer  |
 | A002D4KY4214  | Muhammad Aliefnaufal Permana  | ITB  | Android Developer  |
-| A010D4KY3424  | Marcelinus Gerardo Ari Nugroho  | UI  | Android Developer  |
+| A010D4KY3424  | Marcelinus Gerardo Ari Nugroho  | UI  | Android Developer & PM  |
 
 # Development Repositories
 | Path | GitHub |
